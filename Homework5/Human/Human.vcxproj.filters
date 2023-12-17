@@ -18,7 +18,7 @@
     <ClCompile Include="d3dUtility.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="teapot.cpp">
+    <ClCompile Include="Adamak2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
